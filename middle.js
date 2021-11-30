@@ -1,4 +1,4 @@
-const eqArrays = require("./eqArrays");
+/*const eqArrays = require("./eqArrays");
 
 const assertArraysEqual = function(actual, expected) {
   if (eqArrays(actual, expected)){
@@ -26,7 +26,7 @@ const eqArrays1 = function(array1, array2) {
     }
     return true;
   }
-};
+};*/
 
 
    
