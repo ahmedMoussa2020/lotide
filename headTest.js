@@ -1,1 +1,0 @@
-const head = require('./head');
